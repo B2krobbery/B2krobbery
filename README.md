@@ -7,14 +7,7 @@ Interested in Linux, Hyprland and open source.<br/><br/>
 
 ---
 
-**Hyprland dotfiles** [ w ] - My personal setup.<br/>
-**Waybar config** [ w ] - Custom status bar for Arch Linux.<br/>
-
-*w - work in progress*<br/><br/>
-
----
-
-Still learning and improving step by step.<br/><br/>
+Working on personal configs and learning through open source.<br/><br/>
 
 ---
 
