@@ -35,9 +35,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B2krobbery&show_icons=true&theme=radical&hide_border=true&hide_rank=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=B2krobbery&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=B2krobbery&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+</picture>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=B2krobbery&theme=radical&hide_border=true"/>
